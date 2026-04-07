@@ -67,7 +67,7 @@ function displayResult() {
     loopContentDiv.textContent = loopQaute();
   }
 
-  localStorage.clear();
+ 
 }
 
 //get name from local storage
